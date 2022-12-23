@@ -1,10 +1,11 @@
 Use Automated Machine Learning in Azure Machine Learning: predict-rentals
 https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02-module-02.html
 
-Create a regression model with Azure Machine Learning designer: predict-penguin-clusters 
+Create a regression model with Azure Machine Learning designer: predict-auto price
 https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02c-create-clustering-model.html
 
 Create a classification model with Azure Machine Learning designer: predict-diabetes
 https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02b-create-classification-model.html
 
-Create a clustering model with Azure Machine Learning designer
+Create a clustering model with Azure Machine Learning designer： predict-penguin-clusters
+https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02c-create-clustering-model.html
